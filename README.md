@@ -7,6 +7,7 @@
 - [VS Code 或 PyCharm 使用教程](./vscode或pycharm使用教程.docx)
 - [远程连接服务器](./远程连接服务器.docx)
 - [VS Code 远程配置 Codex](./vscode远程配置codex.pdf)
+- [A800 服务器外网代理与 Codex 远程开发操作手册](./A800服务器外网代理_Codex远程开发操作手册.docx)
 
 ## 使用说明
 
